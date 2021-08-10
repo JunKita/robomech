@@ -1,0 +1,6 @@
+EXPORTS
+    adderOutput_EAxSEry9xTw4j0a4Z5k1ZG @1
+    createAdder_EAxSEry9xTw4j0a4Z5k1ZG @2
+    deleteAdder_EAxSEry9xTw4j0a4Z5k1ZG @3
+    get_checksum_source_info @4
+    get_dll_checksum_EAxSEry9xTw4j0a4Z5k1ZG @5

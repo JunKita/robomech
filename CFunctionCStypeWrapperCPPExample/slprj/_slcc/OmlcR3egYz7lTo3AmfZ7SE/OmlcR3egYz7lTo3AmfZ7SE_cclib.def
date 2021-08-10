@@ -1,0 +1,6 @@
+EXPORTS
+    adderOutput_OmlcR3egYz7lTo3AmfZ7SE @1
+    createAdder_OmlcR3egYz7lTo3AmfZ7SE @2
+    deleteAdder_OmlcR3egYz7lTo3AmfZ7SE @3
+    get_checksum_source_info @4
+    get_dll_checksum_OmlcR3egYz7lTo3AmfZ7SE @5

@@ -1,0 +1,6 @@
+EXPORTS
+    adderOutput_YdyQbHvbsfvaBtH52GR9tE @1
+    createAdder_YdyQbHvbsfvaBtH52GR9tE @2
+    deleteAdder_YdyQbHvbsfvaBtH52GR9tE @3
+    get_checksum_source_info @4
+    get_dll_checksum_YdyQbHvbsfvaBtH52GR9tE @5
